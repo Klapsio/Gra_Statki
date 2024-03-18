@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Statki_Gra\Gra_Statki\Gra_Statki\obj\Debug\net8.0\Gra_Statki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Statki_Gra\Gra_Statki\Gra_Statki\obj\Debug\net8.0\Gra_Statki.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Statki_Gra\Gra_Statki\Gra_Statki\obj\Debug\net8.0\Gra_Statki.AssemblyInfo.cs
+C:\Users\User\Desktop\Statki_Gra\Gra_Statki\Gra_Statki\obj\Debug\net8.0\Gra_Statki.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Statki_Gra\Gra_Statki\Gra_Statki\bin\Debug\net8.0\Gra_Statki.exe
+C:\Users\User\Desktop\Statki_Gra\Gra_Statki\Gra_Statki\bin\Debug\net8.0\Gra_Statki.deps.json
+C:\Users\User\Desktop\Statki_Gra\Gra_Statki\Gra_Statki\bin\Debug\net8.0\Gra_Statki.runtimeconfig.json
+C:\Users\User\Desktop\Statki_Gra\Gra_Statki\Gra_Statki\bin\Debug\net8.0\Gra_Statki.dll
+C:\Users\User\Desktop\Statki_Gra\Gra_Statki\Gra_Statki\bin\Debug\net8.0\Gra_Statki.pdb
+C:\Users\User\Desktop\Statki_Gra\Gra_Statki\Gra_Statki\obj\Debug\net8.0\Gra_Statki.dll
+C:\Users\User\Desktop\Statki_Gra\Gra_Statki\Gra_Statki\obj\Debug\net8.0\refint\Gra_Statki.dll
+C:\Users\User\Desktop\Statki_Gra\Gra_Statki\Gra_Statki\obj\Debug\net8.0\Gra_Statki.pdb
+C:\Users\User\Desktop\Statki_Gra\Gra_Statki\Gra_Statki\obj\Debug\net8.0\Gra_Statki.genruntimeconfig.cache
+C:\Users\User\Desktop\Statki_Gra\Gra_Statki\Gra_Statki\obj\Debug\net8.0\ref\Gra_Statki.dll
